@@ -53,25 +53,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 🛒 Ecommerce Frontend Project
-Frontend e-commerce interface inspired by Amazon with responsive design.
-
-### ⚙️ CRUD API MongoDB
-RESTful CRUD API built using Node.js, Express, and MongoDB.
-
-### ⚛️ React Practice
-Hands-on React learning projects covering components, props, state, and routing.
-
-### 💱 Currency Converter
-Real-time currency conversion web application.
-
-### 🧮 Calculator Web App
-Responsive calculator built using HTML, CSS, and JavaScript.
-
-### 🤖 Doc-AI
-AI-powered document summarization web application.
 
 ---
 
