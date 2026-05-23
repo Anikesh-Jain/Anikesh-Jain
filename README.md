@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anikesh Jain</h1>
-<h3 align="center">A passionate developer currently learning Full Stack Web Development 🚀</h3>
-
+<h3 align="center">Passionate Web Developer building modern full-stack applications 🚀</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anikesh-Jain&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="profile views" />
 </p>
