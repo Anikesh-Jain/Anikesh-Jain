@@ -1,32 +1,89 @@
 <h1 align="center">Hi 👋, I'm Anikesh Jain</h1>
-<h3 align="center">💻 Passionate Web Developer | 🎮 Gamer at Heart | 🎨 Creative Graphic Designer </h3>
-<h3 align="center">I’m a dedicated and enthusiastic web developer with a strong passion for creating clean, functional, and visually appealing websites. Alongside coding, I enjoy exploring the world of gaming, which fuels my creativity and problem-solving skills. With a solid background in graphic design, I bring ideas to life through unique visuals and engaging digital experiences.</h3>
+<h3 align="center">A passionate developer currently learning Full Stack Web Development 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anikeshjainxtech&label=Profile%20views&color=0e75b6&style=flat" alt="anikeshjainxtech" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikeshjainxtech" alt="anikeshjainxtech" /></a> </p>
-
-
-- 🔭 I’m currently working on **Full stack Web development**
-
-- 🌱 I’m currently learning **Frontend Web development**
-
-- 👯 I’m looking to collaborate on **Graphic designing companies**
-
-- 📫 How to reach me **anikeshjainxtech@gamil.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anikesh-jain-59283b361/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anikesh-jain-59283b361/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anikesh-Jain&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikeshjainxtech&show_icons=true&locale=en&layout=compact" alt="anikeshjainxtech" /></p>
+## 💫 About Me
 
+💻 Currently learning **Full Stack Web Development**  
+🎨 Creative background in **Graphic Design**  
+⚡ Passionate about building responsive web applications and backend systems  
+🌱 Currently exploring **React, Node.js, Express, MongoDB, and modern web technologies**  
+📫 Reach me at: **anikeshjainxtech@gmail.com**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anikeshjainxtech&" alt="anikeshjainxtech" /></p>
+---
 
+## 🌐 Connect With Me
 
-![snake gif](https://github.com/anikeshjainxtech/anikeshjainxtech/blob/output/github-snake-dark.svg)
+<p align="left">
+<a href="https://www.linkedin.com/in/anikesh-jain-59283b361/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+<a href="mailto:anikeshjainxtech@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,react,nodejs,express,mongodb,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anikesh-Jain&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anikesh-Jain&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh-Jain&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Ecommerce Frontend Project
+Frontend e-commerce interface inspired by Amazon with responsive design.
+
+### ⚙️ CRUD API MongoDB
+RESTful CRUD API built using Node.js, Express, and MongoDB.
+
+### ⚛️ React Practice
+Hands-on React learning projects covering components, props, state, and routing.
+
+### 💱 Currency Converter
+Real-time currency conversion web application.
+
+### 🧮 Calculator Web App
+Responsive calculator built using HTML, CSS, and JavaScript.
+
+### 🤖 Doc-AI
+AI-powered document summarization web application.
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anikesh-Jain/Anikesh-Jain/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building. Learning. Improving. One commit at a time 🚀</i>
+</p>
