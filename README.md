@@ -103,13 +103,23 @@ A full-stack personal finance platform for managing transactions, budgets, savin
 
 </details>
 
----
+<details>
+<summary><b>🌐 Developer Portfolio — Modern Personal Portfolio</b></summary>
 
-## 🌐 Portfolio
+<br />
 
-My personal portfolio was rebuilt as a modern developer-focused experience with a polished UI, responsive layout, project storytelling and interactive sections.
+A modern developer portfolio focused on presenting projects, skills, journey and work in a polished, responsive interface.
 
-**Live:** [anikesh-portfolio-seven.vercel.app](https://anikesh-portfolio-seven.vercel.app/) · **Repository:** [github.com/Anikesh-Jain/anikesh-portfolio](https://github.com/Anikesh-Jain/anikesh-portfolio)
+**Highlights**
+- React 19 + Vite-based frontend
+- Tailwind CSS v4 with a custom design system
+- Framer Motion interactions and responsive layouts
+- Project-focused presentation with dedicated routes
+- Production deployment on Vercel
+
+**Links:** [Live](https://anikesh-portfolio-seven.vercel.app/) · [GitHub](https://github.com/Anikesh-Jain/anikesh-portfolio)
+
+</details>
 
 ---
 
@@ -132,6 +142,14 @@ My personal portfolio was rebuilt as a modern developer-focused experience with 
 <a href="https://github.com/Anikesh-Jain">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh-Jain&layout=compact&hide_border=true&bg_color=0D1117&title_color=B16CFF&text_color=C9D1D9" height="180" alt="Top languages" />
 </a>
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anikesh-Jain&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%" alt="GitHub trophies" />
 
 </div>
 
