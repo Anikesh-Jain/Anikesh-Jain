@@ -4,43 +4,42 @@ on:
   schedule:
     - cron: "17 */6 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "profile/**"
 
 permissions:
   contents: write
 
 jobs:
-  stats:
+  generate-widgets:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
+      - name: Generate custom profile widgets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/generate-profile-widgets.py
 
-      - name: Generate Top Languages
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=tokyonight&hide_border=true
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Commit Stats Cards
+      - name: Commit generated widgets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add profile/stats.svg profile/top-langs.svg
-          git diff --cached --quiet || git commit -m "chore: update GitHub stats cards"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No widget changes."
+          else
+            git commit -m "chore: update profile widgets"
+            git push
+          fi
 
   activity:
     runs-on: ubuntu-latest
@@ -52,7 +51,7 @@ jobs:
           username: ${{ github.repository_owner }}
           options: bg_color=0D1117&color=B16CFF&line=7C3AED&point=FFFFFF&area=true&hide_border=true
           output_path: dist/activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ github.token }}
 
       - name: Publish Activity Graph
         uses: crazy-max/ghaction-github-pages@v3.1.0
