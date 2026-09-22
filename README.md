@@ -2,24 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:2563EB&height=220&section=header&text=Anikesh%20Jain&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Creative%20Developer&descAlignY=56&descSize=18" width="100%" alt="Anikesh Jain header" />
 
-<a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=B16CFF&center=true&vCenter=true&width=760&lines=Building+real-world+full-stack+applications;Turning+ideas+into+clean%2C+production-ready+products;Developer+%2B+Designer+mindset;Learning%2C+building%2C+improving+every+day" alt="Typing animation" />
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=B16CFF&center=true&vCenter=true&width=760&lines=Building+real-world+full-stack+applications;MERN+Stack+%7C+React+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+clean%2C+production-ready+products;Developer+%2B+Designer+mindset" alt="Typing animation" />
 </a>
 
 <br />
 
-<a href="https://www.aitr.ac.in/">
-  <img src="https://img.shields.io/badge/B.Tech%20CSE-AITR%20%7C%20Indore-7C3AED?style=for-the-badge&labelColor=111827" alt="B.Tech CSE at AITR" />
-</a>
-<a href="https://anikesh-portfolio-seven.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Live-2563EB?style=for-the-badge&labelColor=111827" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/anikeshjain/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=111827" alt="LinkedIn" />
-</a>
-<a href="mailto:anikeshjainxtech@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&labelColor=111827" alt="Email" />
-</a>
+<a href="https://www.aitr.ac.in/"><img src="https://img.shields.io/badge/B.Tech%20CSE-AITR%20%7C%20Indore-7C3AED?style=for-the-badge&labelColor=111827" alt="B.Tech CSE at AITR" /></a>
+<a href="https://anikesh-portfolio-seven.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-2563EB?style=for-the-badge&labelColor=111827" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/anikeshjain/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=111827" alt="LinkedIn" /></a>
+<a href="mailto:anikeshjainxtech@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&labelColor=111827" alt="Email" /></a>
+<a href="https://github.com/Anikesh-Jain"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br /><br />
 
@@ -35,29 +28,33 @@
 
 I'm **Anikesh Jain**, a B.Tech CSE student at **Acropolis Institute of Technology and Research (AITR), Indore**, focused on becoming a professional **Full-Stack MERN Developer**.
 
-I like turning ideas into practical products, with an emphasis on clean interfaces, reliable backend workflows, security, maintainability and real-world deployment. I also bring a creative design background to the way I approach digital products.
+I enjoy building practical web products rather than stopping at tutorials — from authentication and REST APIs to databases, dashboards, analytics, deployment, and polished user interfaces.
 
-- 🚀 Focused on building **real-world full-stack applications**
-- 🧩 Interested in **backend engineering, APIs, authentication and production workflows**
-- 🎨 Combining **software development with UI and visual design thinking**
-- ☁️ Building and deploying projects with modern cloud and developer tooling
-- 📚 Continuously strengthening my engineering fundamentals and project depth
-- 📫 **anikeshjainxtech@gmail.com**
+- 🚀 Focused on **Full-Stack Web Development & MERN**
+- 🧩 Interested in building **real-world, production-ready applications**
+- 🎨 Combining **development with graphic design and creative problem-solving**
+- 📚 Continuously strengthening my **frontend, backend, database, and software engineering fundamentals**
+- 🌐 Portfolio: [anikesh-portfolio-seven.vercel.app](https://anikesh-portfolio-seven.vercel.app/)
+- 📫 Email: **anikeshjainxtech@gmail.com**
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,redux,nodejs,express,mongodb,mongoose,tailwind,bootstrap,vite,git,github,vscode,figma" alt="Tech stack" />
-</p>
+### Languages
+<p><img src="https://skillicons.dev/icons?i=c,cpp,js" alt="Languages" /></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20API-Engineering-7C3AED?style=flat-square&labelColor=111827" alt="REST API" />
-  <img src="https://img.shields.io/badge/OOP-Programming-6D28D9?style=flat-square&labelColor=111827" alt="OOP" />
-  <img src="https://img.shields.io/badge/Canva-Design-8A2BE2?style=flat-square&labelColor=111827" alt="Canva" />
-  <img src="https://img.shields.io/badge/Adobe%20%2F%20Photoshop-Design-2563EB?style=flat-square&labelColor=111827" alt="Adobe and Photoshop" />
-</p>
+### Frontend
+<p><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux" alt="Frontend technologies" /></p>
+
+### Backend
+<p><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" /></p>
+
+### Database
+<p><img src="https://skillicons.dev/icons?i=mongodb" alt="Database technologies" /></p>
+
+### Tools
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" /></p>
 
 ---
 
@@ -68,17 +65,18 @@ I like turning ideas into practical products, with an emphasis on clean interfac
 
 <br />
 
-A modern e-commerce product built around a complete shopping workflow, including authentication, product management, cart and wishlist flows, payments, media handling, email functionality and production deployment.
+A modern full-stack e-commerce platform with product management, authentication, cart and wishlist workflows, payments, media handling, email functionality, and production deployment.
 
-**Highlights**
-- Complete customer shopping experience
-- Authentication and protected application flows
-- Product, cart and wishlist workflows
+- Authentication and role-based access
+- Product, cart, wishlist, and order workflows
 - Razorpay payment integration
-- Cloud media and transactional email integrations
+- Cloudinary media handling
+- Email functionality with Resend
+- PostgreSQL with Prisma ORM
 - Production deployment on Vercel
 
-**Links:** [Live](https://aurastore-nu.vercel.app/) · [GitHub](https://github.com/Anikesh-Jain/aurastore)
+**Repository:** [github.com/Anikesh-Jain/aurastore](https://github.com/Anikesh-Jain/aurastore)  
+**Live:** [aurastore-nu.vercel.app](https://aurastore-nu.vercel.app/)
 
 </details>
 
@@ -87,37 +85,30 @@ A modern e-commerce product built around a complete shopping workflow, including
 
 <br />
 
-A full-stack personal finance platform for managing transactions, budgets, savings goals, analytics and multi-currency financial data through a production-oriented application workflow.
+A full-stack personal finance platform for transaction tracking, budgeting, savings planning, analytics, and multi-currency financial management.
 
-**Highlights**
-- Transaction tracking, budgets and savings goals
-- Analytics dashboard and spending insights
-- Multi-currency architecture with historical exchange rates
-- CSV export and admin role-based access
-- User isolation, validation, security controls and rate limiting
-- Deterministic financial calculations engine
-- **187 backend tests across 29 suites** with frontend lint/build verification
-- Production deployment across Vercel, Render and MongoDB Atlas
+- JWT authentication and user isolation
+- Transactions, budgets, and savings goals
+- Analytics and spending insights
+- Multi-currency architecture
+- CSV export and admin RBAC
+- Security middleware and rate limiting
+- Production deployment with Vercel, Render, and MongoDB Atlas
 
-**Links:** [Live](https://smart-expense-blond.vercel.app/) · [GitHub](https://github.com/Anikesh-Jain/smart-expense)
+**Repository:** [github.com/Anikesh-Jain/smart-expense](https://github.com/Anikesh-Jain/smart-expense)  
+**Live:** [smart-expense-blond.vercel.app](https://smart-expense-blond.vercel.app/)
 
 </details>
 
 <details>
-<summary><b>🌐 Developer Portfolio — Modern Personal Portfolio</b></summary>
+<summary><b>🌐 Developer Portfolio</b></summary>
 
 <br />
 
-A modern developer portfolio focused on presenting projects, skills, journey and work in a polished, responsive interface.
+A modern developer portfolio rebuilt with a component-based React architecture, premium dark visual system, responsive layouts, animations, project showcases, and a production deployment workflow.
 
-**Highlights**
-- React 19 + Vite-based frontend
-- Tailwind CSS v4 with a custom design system
-- Framer Motion interactions and responsive layouts
-- Project-focused presentation with dedicated routes
-- Production deployment on Vercel
-
-**Links:** [Live](https://anikesh-portfolio-seven.vercel.app/) · [GitHub](https://github.com/Anikesh-Jain/anikesh-portfolio)
+**Repository:** [github.com/Anikesh-Jain/anikesh-portfolio](https://github.com/Anikesh-Jain/anikesh-portfolio)  
+**Live:** [anikesh-portfolio-seven.vercel.app](https://anikesh-portfolio-seven.vercel.app/)
 
 </details>
 
@@ -125,108 +116,83 @@ A modern developer portfolio focused on presenting projects, skills, journey and
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Anikesh-Jain&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</p>
 
-<a href="https://github.com/Anikesh-Jain">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anikesh-Jain&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B16CFF&icon_color=7C3AED&text_color=C9D1D9" height="180" alt="GitHub stats" />
-</a>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Anikesh-Jain&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-<a href="https://github.com/Anikesh-Jain">
-  <img src="https://streak-stats.demolab.com/?user=Anikesh-Jain&theme=dark&hide_border=true&background=0D1117&ring=B16CFF&fire=7C3AED&currStreakLabel=B16CFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" height="180" alt="GitHub streak" />
-</a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh-Jain&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
-</div>
-
-<div align="center">
-
-<a href="https://github.com/Anikesh-Jain">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh-Jain&layout=compact&hide_border=true&bg_color=0D1117&title_color=B16CFF&text_color=C9D1D9" height="180" alt="Top languages" />
-</a>
-
-</div>
+---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anikesh-Jain&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%" alt="GitHub trophies" />
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Anikesh-Jain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-<a href="https://github.com/Anikesh-Jain">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anikesh-Jain&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=B16CFF&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
-</a>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anikesh-Jain&bg_color=0d1117&color=B16CFF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anikesh-Jain/Anikesh-Jain/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Anikesh-Jain/Anikesh-Jain/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
 ```yaml
-learning:
-  - Advanced full-stack development
+Learning:
+  - Advanced MERN stack development
   - Backend architecture and API design
-  - Authentication, security and production workflows
+  - Database design and software engineering fundamentals
 
-building:
-  - Real-world full-stack applications
+Building:
+  - Production-ready full-stack applications
   - Portfolio-quality developer projects
-  - Production-ready user experiences
 
-exploring:
-  - Modern web development patterns
-  - Scalable backend workflows
-  - Better UI/UX and developer workflows
+Exploring:
+  - Modern frontend architecture
+  - Scalable backend patterns
+  - Better developer workflows
 
-open_to:
+Open To:
   - Full-stack development opportunities
   - Collaborative projects
-  - Learning-focused technical communities
+  - Learning and building with other developers
 ```
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
-<div align="center">
-
-<a href="https://anikesh-portfolio-seven.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/anikeshjain/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Anikesh-Jain">
-  <img src="https://img.shields.io/badge/GitHub-Follow-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub" />
-</a>
-<a href="mailto:anikeshjainxtech@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email" />
-</a>
-
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/anikeshjain/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:anikeshjainxtech@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/Anikesh-Jain"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://anikesh-portfolio-seven.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 ---
 
 <div align="center">
 
-### Building. Learning. Improving. One commit at a time.
+<i>Building. Learning. Improving. One commit at a time.</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:6D28D9&height=120&section=footer" width="100%" alt="Footer banner" />
 
