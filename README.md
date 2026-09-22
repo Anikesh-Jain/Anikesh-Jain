@@ -141,7 +141,7 @@ A modern developer portfolio rebuilt with a component-based React architecture, 
 ## 📈 Contribution Activity
 
 <p align="center">
-<img src="./profile/activity/activity-90d.svg" alt="Contribution activity graph" />
+<img src="https://raw.githubusercontent.com/Anikesh-Jain/Anikesh-Jain/activity-graph/activity-graph.svg" alt="Contribution activity graph" />
 </p>
 
 ---
@@ -197,5 +197,6 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:6D28D9&height=120&section=footer" width="100%" alt="Footer banner" />
 
 </div>
+
 
 
