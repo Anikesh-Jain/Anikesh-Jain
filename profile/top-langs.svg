@@ -1,257 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="262" viewBox="0 0 400 262">
+<rect width="400" height="262" rx="10" fill="#1a1b27"/>
 
-      <svg
-        width="300"
-        height="165"
-        viewBox="0 0 300 165"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-        role="img"
-        aria-labelledby="descId"
-      >
-        <title id="titleId"></title>
-        <desc id="descId"></desc>
-        <style>
-          .header {
-            font: 600 18px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
-            fill: #70a5fd;
-            animation: fadeInAnimation 0.8s ease-in-out forwards;
-          }
-          @supports(-moz-appearance: auto) {
-            /* Selector detects Firefox */
-            .header { font-size: 15.5px; }
-          }
-          
-    .lang-name {
-      font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae;
-    }
-    .stagger {
-      opacity: 0;
-      animation: fadeInAnimation 0.3s ease-in-out forwards;
-    }
-    .lang-progress {
-      animation: growWidthAnimation 0.6s ease-in-out forwards;
-    }
-    #rect-mask rect {
-      animation: slideInAnimation 1s ease-in-out forwards;
-    }
-    @keyframes progressAnimation {
-      from {
-        width: 0;
-      }
-    }
-    @keyframes slideInAnimation {
-      from {
-        width: 0;
-      }
-      to {
-        width: calc(100%-100px);
-      }
-    }
-    @keyframes growWidthAnimation {
-      from {
-        width: 0;
-      }
-      to {
-        width: 100%;
-      }
-    }
-    @keyframes fadeInAnimation {
-      from {
-        opacity: 0;
-      }
-      to {
-        opacity: 1;
-      }
-    }
-  
+<text x="24" y="36" fill="#70a5fd" font-family="Segoe UI,Arial" font-size="20" font-weight="700">
+Top Languages
+</text>
 
-          
-      /* Animations */
-      @keyframes scaleInAnimation {
-        from {
-          transform: translate(-5px, 5px) scale(0);
-        }
-        to {
-          transform: translate(-5px, 5px) scale(1);
-        }
-      }
-      @keyframes fadeInAnimation {
-        from {
-          opacity: 0;
-        }
-        to {
-          opacity: 1;
-        }
-      }
-      @keyframes slideInAnimation {
-        from {
-          transform: translateX(-10px);
-          opacity: 0;
-        }
-        to {
-          transform: translateX(0);
-          opacity: 1;
-        }
-      }
-      @keyframes bounceInAnimation {
-        0% {
-          transform: scale(0.3);
-          opacity: 0;
-        }
-        50% {
-          transform: scale(1.05);
-        }
-        70% {
-          transform: scale(0.9);
-        }
-        100% {
-          transform: scale(1);
-          opacity: 1;
-        }
-      }
-    
-          
-        </style>
+<text x="24" y="70" fill="#c9d1d9" font-family="Segoe UI,Arial" font-size="13">
+JavaScript
+</text>
 
-        
+<text x="350" y="70" text-anchor="end" fill="#858585" font-family="Segoe UI,Arial" font-size="12">
+53.3%
+</text>
 
-        <rect
-          data-testid="card-bg"
-          x="0.5"
-          y="0.5"
-          rx="4.5"
-          height="99%"
-          stroke="#e4e2e2"
-          width="299"
-          fill="#1a1b27"
-          stroke-opacity="0.0"
-        />
+<rect x="24" y="80" width="326" height="7" rx="3.5" fill="#30363d"/>
 
-        
-      <g
-        data-testid="card-title"
-        transform="translate(25, 35)"
-      >
-        <g transform="translate(0, 0)">
-      <text
-        x="0"
-        y="0"
-        class="header"
-        data-testid="header"
-      >Most Used Languages</text>
-    </g>
-      </g>
-    
+<rect x="24" y="80" width="173.8" height="7" rx="3.5" fill="#70a5fd"/>
 
-        <g
-          data-testid="main-card-body"
-          transform="translate(0, 55)"
-        >
-          
-    <svg data-testid="lang-items" x="25">
-      
-  
-      <mask id="rect-mask">
-        <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
-      </mask>
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="0.00"
-          y="0"
-          width="133.76"
-          height="8"
-          fill="#f1e05a"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="133.76"
-          y="0"
-          width="57.80"
-          height="8"
-          fill="#3178c6"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="191.56"
-          y="0"
-          width="25.27"
-          height="8"
-          fill="#663399"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="216.83"
-          y="0"
-          width="23.53"
-          height="8"
-          fill="#e34c26"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="240.36"
-          y="0"
-          width="15.06"
-          height="8"
-          fill="#555555"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="245.43"
-          y="0"
-          width="14.57"
-          height="8"
-          fill="#f34b7d"
-        />
-      
-    
-  <g transform="translate(0, 25)">
-    <g transform="translate(0, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">JavaScript 53.50%</text>
-    </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">TypeScript 23.12%</text>
-    </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">CSS 10.11%</text>
-    </g>
-  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">HTML 9.41%</text>
-    </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 1050ms">
-      <circle cx="5" cy="6" r="5" fill="#555555" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">C 2.03%</text>
-    </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 1200ms">
-      <circle cx="5" cy="6" r="5" fill="#f34b7d" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">C++ 1.83%</text>
-    </g>
-  </g></g>
-  </g>
-  
-    </svg>
-  
-        </g>
-      </svg>
-    
+<text x="24" y="102" fill="#c9d1d9" font-family="Segoe UI,Arial" font-size="13">
+TypeScript
+</text>
+
+<text x="350" y="102" text-anchor="end" fill="#858585" font-family="Segoe UI,Arial" font-size="12">
+23.0%
+</text>
+
+<rect x="24" y="112" width="326" height="7" rx="3.5" fill="#30363d"/>
+
+<rect x="24" y="112" width="75.1" height="7" rx="3.5" fill="#70a5fd"/>
+
+<text x="24" y="134" fill="#c9d1d9" font-family="Segoe UI,Arial" font-size="13">
+CSS
+</text>
+
+<text x="350" y="134" text-anchor="end" fill="#858585" font-family="Segoe UI,Arial" font-size="12">
+10.1%
+</text>
+
+<rect x="24" y="144" width="326" height="7" rx="3.5" fill="#30363d"/>
+
+<rect x="24" y="144" width="32.8" height="7" rx="3.5" fill="#70a5fd"/>
+
+<text x="24" y="166" fill="#c9d1d9" font-family="Segoe UI,Arial" font-size="13">
+HTML
+</text>
+
+<text x="350" y="166" text-anchor="end" fill="#858585" font-family="Segoe UI,Arial" font-size="12">
+9.4%
+</text>
+
+<rect x="24" y="176" width="326" height="7" rx="3.5" fill="#30363d"/>
+
+<rect x="24" y="176" width="30.6" height="7" rx="3.5" fill="#70a5fd"/>
+
+<text x="24" y="198" fill="#c9d1d9" font-family="Segoe UI,Arial" font-size="13">
+C
+</text>
+
+<text x="350" y="198" text-anchor="end" fill="#858585" font-family="Segoe UI,Arial" font-size="12">
+2.0%
+</text>
+
+<rect x="24" y="208" width="326" height="7" rx="3.5" fill="#30363d"/>
+
+<rect x="24" y="208" width="6.6" height="7" rx="3.5" fill="#70a5fd"/>
+
+<text x="24" y="230" fill="#c9d1d9" font-family="Segoe UI,Arial" font-size="13">
+C++
+</text>
+
+<text x="350" y="230" text-anchor="end" fill="#858585" font-family="Segoe UI,Arial" font-size="12">
+1.8%
+</text>
+
+<rect x="24" y="240" width="326" height="7" rx="3.5" fill="#30363d"/>
+
+<rect x="24" y="240" width="5.9" height="7" rx="3.5" fill="#70a5fd"/>
+</svg>

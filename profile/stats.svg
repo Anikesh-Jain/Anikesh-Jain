@@ -1,15 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="576" height="200" viewBox="0 0 576 200">
+<rect width="576" height="200" rx="10" fill="#1a1b27"/>
 
-    <svg width="576.5"  height="120" viewBox="0 0 576.5 120" fill="#1a1b27" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="575.5" height="99%" rx="4.5" fill="#1a1b27" stroke="#e4e2e2"/>
-    <text x="25" y="45" class="text">Something went wrong! file an issue at https://tiny.one/readme-stats</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">Resource not accessible by integration</tspan>
-      <tspan x="25" dy="18" class="gray">FORBIDDEN</tspan>
-    </text>
-    </svg>
-  
+<text x="28" y="38" fill="#70a5fd" font-family="Segoe UI,Arial" font-size="20" font-weight="700">
+GitHub Statistics
+</text>
+
+<text x="28" y="82" fill="#858585" font-family="Segoe UI,Arial" font-size="13">
+Public Repositories
+</text>
+
+<text x="28" y="108" fill="#38bdae" font-family="Segoe UI,Arial" font-size="23" font-weight="700">
+23
+</text>
+
+<text x="205" y="82" fill="#858585" font-family="Segoe UI,Arial" font-size="13">
+Followers
+</text>
+
+<text x="205" y="108" fill="#38bdae" font-family="Segoe UI,Arial" font-size="23" font-weight="700">
+1
+</text>
+
+<text x="350" y="82" fill="#858585" font-family="Segoe UI,Arial" font-size="13">
+Repositories Scanned
+</text>
+
+<text x="350" y="108" fill="#38bdae" font-family="Segoe UI,Arial" font-size="23" font-weight="700">
+23
+</text>
+
+<line x1="28" y1="132" x2="548" y2="132" stroke="#30363d"/>
+
+<text x="28" y="160" fill="#858585" font-family="Segoe UI,Arial" font-size="13">
+Top Language
+</text>
+
+<text x="28" y="184" fill="#70a5fd" font-family="Segoe UI,Arial" font-size="17" font-weight="600">
+JavaScript
+</text>
+
+<text x="205" y="160" fill="#858585" font-family="Segoe UI,Arial" font-size="13">
+Languages Detected
+</text>
+
+<text x="205" y="184" fill="#70a5fd" font-family="Segoe UI,Arial" font-size="17" font-weight="600">
+6
+</text>
+
+<text x="350" y="160" fill="#858585" font-family="Segoe UI,Arial" font-size="13">
+Code Tracked
+</text>
+
+<text x="350" y="184" fill="#70a5fd" font-family="Segoe UI,Arial" font-size="17" font-weight="600">
+1,980,257
+</text>
+
+</svg>
