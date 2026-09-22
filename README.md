@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:2563EB&height=220&section=header&text=Anikesh%20Jain&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Creative%20Developer&descAlignY=56&descSize=18" width="100%" alt="Anikesh Jain header" />
 
@@ -117,7 +117,7 @@ A modern developer portfolio rebuilt with a component-based React architecture, 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anikesh-Jain&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img src="./profile/stats.svg" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -125,7 +125,7 @@ A modern developer portfolio rebuilt with a component-based React architecture, 
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh-Jain&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ---
@@ -133,7 +133,7 @@ A modern developer portfolio rebuilt with a component-based React architecture, 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anikesh-Jain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+<img src="./profile/trophy.svg" alt="GitHub trophies" />
 </p>
 
 ---
@@ -141,7 +141,7 @@ A modern developer portfolio rebuilt with a component-based React architecture, 
 ## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anikesh-Jain&bg_color=0d1117&color=B16CFF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" />
+<img src="https://raw.githubusercontent.com/Anikesh-Jain/Anikesh-Jain/activity-graph/activity-graph.svg" alt="Contribution activity graph" />
 </p>
 
 ---
@@ -197,3 +197,4 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:6D28D9&height=120&section=footer" width="100%" alt="Footer banner" />
 
 </div>
+

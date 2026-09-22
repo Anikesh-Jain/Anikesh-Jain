@@ -1,0 +1,76 @@
+﻿name: Update GitHub Profile Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "profile/**"
+
+permissions:
+  contents: write
+
+jobs:
+  profile-cards:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub stats
+        uses: soulteary/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true"
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages
+        uses: soulteary/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub trophies
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: "username=${{ github.repository_owner }}&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated profile cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update GitHub profile cards" || exit 0
+          git push
+
+  activity-graph:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: "bg_color=0D1117&color=B16CFF&line=7C3AED&point=FFFFFF&area=true&hide_border=true"
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish activity graph
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: activity-graph
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
