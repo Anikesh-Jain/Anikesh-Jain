@@ -10,48 +10,48 @@ JavaScript
 </text>
 
 <text x="350" y="70" text-anchor="end" fill="#858585" font-family="Segoe UI,Arial" font-size="12">
-53.7%
+53.4%
 </text>
 
 <rect x="24" y="80" width="326" height="7" rx="3.5" fill="#30363d"/>
 
-<rect x="24" y="80" width="175.1" height="7" rx="3.5" fill="#70a5fd"/>
+<rect x="24" y="80" width="174.0" height="7" rx="3.5" fill="#70a5fd"/>
 
 <text x="24" y="102" fill="#c9d1d9" font-family="Segoe UI,Arial" font-size="13">
 TypeScript
 </text>
 
 <text x="350" y="102" text-anchor="end" fill="#858585" font-family="Segoe UI,Arial" font-size="12">
-22.8%
+22.7%
 </text>
 
 <rect x="24" y="112" width="326" height="7" rx="3.5" fill="#30363d"/>
 
-<rect x="24" y="112" width="74.5" height="7" rx="3.5" fill="#70a5fd"/>
+<rect x="24" y="112" width="74.0" height="7" rx="3.5" fill="#70a5fd"/>
 
 <text x="24" y="134" fill="#c9d1d9" font-family="Segoe UI,Arial" font-size="13">
 CSS
 </text>
 
 <text x="350" y="134" text-anchor="end" fill="#858585" font-family="Segoe UI,Arial" font-size="12">
-10.0%
+9.9%
 </text>
 
 <rect x="24" y="144" width="326" height="7" rx="3.5" fill="#30363d"/>
 
-<rect x="24" y="144" width="32.6" height="7" rx="3.5" fill="#70a5fd"/>
+<rect x="24" y="144" width="32.4" height="7" rx="3.5" fill="#70a5fd"/>
 
 <text x="24" y="166" fill="#c9d1d9" font-family="Segoe UI,Arial" font-size="13">
 HTML
 </text>
 
 <text x="350" y="166" text-anchor="end" fill="#858585" font-family="Segoe UI,Arial" font-size="12">
-9.3%
+9.2%
 </text>
 
 <rect x="24" y="176" width="326" height="7" rx="3.5" fill="#30363d"/>
 
-<rect x="24" y="176" width="30.3" height="7" rx="3.5" fill="#70a5fd"/>
+<rect x="24" y="176" width="30.1" height="7" rx="3.5" fill="#70a5fd"/>
 
 <text x="24" y="198" fill="#c9d1d9" font-family="Segoe UI,Arial" font-size="13">
 C
