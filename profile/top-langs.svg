@@ -10,12 +10,12 @@ JavaScript
 </text>
 
 <text x="350" y="70" text-anchor="end" fill="#858585" font-family="Segoe UI,Arial" font-size="12">
-68.4%
+68.1%
 </text>
 
 <rect x="24" y="80" width="326" height="7" rx="3.5" fill="#30363d"/>
 
-<rect x="24" y="80" width="222.9" height="7" rx="3.5" fill="#70a5fd"/>
+<rect x="24" y="80" width="222.1" height="7" rx="3.5" fill="#70a5fd"/>
 
 <text x="24" y="102" fill="#c9d1d9" font-family="Segoe UI,Arial" font-size="13">
 TypeScript
@@ -27,7 +27,7 @@ TypeScript
 
 <rect x="24" y="112" width="326" height="7" rx="3.5" fill="#30363d"/>
 
-<rect x="24" y="112" width="50.0" height="7" rx="3.5" fill="#70a5fd"/>
+<rect x="24" y="112" width="49.8" height="7" rx="3.5" fill="#70a5fd"/>
 
 <text x="24" y="134" fill="#c9d1d9" font-family="Segoe UI,Arial" font-size="13">
 CSS
@@ -39,14 +39,14 @@ CSS
 
 <rect x="24" y="144" width="326" height="7" rx="3.5" fill="#30363d"/>
 
-<rect x="24" y="144" width="22.3" height="7" rx="3.5" fill="#70a5fd"/>
+<rect x="24" y="144" width="22.2" height="7" rx="3.5" fill="#70a5fd"/>
 
 <text x="24" y="166" fill="#c9d1d9" font-family="Segoe UI,Arial" font-size="13">
 HTML
 </text>
 
 <text x="350" y="166" text-anchor="end" fill="#858585" font-family="Segoe UI,Arial" font-size="12">
-6.3%
+6.2%
 </text>
 
 <rect x="24" y="176" width="326" height="7" rx="3.5" fill="#30363d"/>
@@ -75,5 +75,5 @@ C++
 
 <rect x="24" y="240" width="326" height="7" rx="3.5" fill="#30363d"/>
 
-<rect x="24" y="240" width="4.0" height="7" rx="3.5" fill="#70a5fd"/>
+<rect x="24" y="240" width="3.9" height="7" rx="3.5" fill="#70a5fd"/>
 </svg>
